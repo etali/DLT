@@ -1,5 +1,0 @@
-#!/bin/bash
-
-## OKOK
-
-## asd
