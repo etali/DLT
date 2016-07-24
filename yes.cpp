@@ -1,3 +1,0 @@
-oko
-mmslsls
-asdas
